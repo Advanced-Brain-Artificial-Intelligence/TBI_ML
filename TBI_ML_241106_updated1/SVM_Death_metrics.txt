@@ -1,0 +1,6 @@
+AUROC: 0.9254
+AUPRC: 0.8207
+Sensitivity: 0.6709
+Specificity: 0.9254
+Precision: 0.7571
+F1-score: 0.7114
